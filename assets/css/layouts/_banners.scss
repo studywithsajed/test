@@ -1,0 +1,14 @@
+// cover 
+
+.banner{
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center; 
+  display: flex;
+  align-items: center;
+  height: 100vh;
+    .banner-caption{
+      margin-left: auto;
+    }
+}

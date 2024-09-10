@@ -1,0 +1,31 @@
+
+.main-footer{
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  p{
+      a{
+        text-decoration: none;
+        color: #ffc107;
+        padding: 10px;
+        font-size: 24px;
+        font-style: italic;
+        text-transform: uppercase;
+        &:hover{
+          color: #28a745;
+        }
+      }
+  }
+  ul{
+    li{
+      a{
+        color: #fff;
+        transition: .3s;
+        &:hover{
+          text-decoration: none;
+          color: #28a745;
+        }
+      }
+    }
+  }
+}

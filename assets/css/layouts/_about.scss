@@ -1,0 +1,15 @@
+
+.about-area{
+  background-position: center;
+  background-size: cover;
+  padding: 50px;
+  .about-content{
+    color: #fff;
+    background: rgba(0,0,0,0.8);
+    padding: 10px;
+    a{
+      color: #fff;
+      margin: 5px;
+    }
+  }
+}
